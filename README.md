@@ -1,2 +1,2 @@
-# yelp_sentiment_analysis
+# Yelp Sentiment Analysis
 Natural Language Processing Project
