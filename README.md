@@ -33,5 +33,5 @@ Each review was trimmed down by removing stop words and stemming each word. This
 
 10 models in total were tested, these are their accuracy and F1 scores:
 
-![Model](/images/model_scores.jpg)
+![Model](/images/model_scores.JPG)
 
