@@ -23,5 +23,5 @@ This data was sourced from Yelp.com, with over 10,000 unique reviews from 200+ r
 
 Collect data from Yelp bu using Yelp's Fusion API to get unique URLs for each restaurant. The list of restaurants was gathered using NYC Open Data. Using BeautifulSoup and Requests library to scrape 10,000+ reviews while following the robots.txt rules. 
 
-![Scraping](/images/web_scraping.JPG)
+![Scraping](/images/web_scraping.jpg)
 
