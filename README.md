@@ -1,2 +1,2 @@
-# Yelp Sentiment Analysis
+# 🗣️ Yelp Sentiment Analysis 📊
 Natural Language Processing Project
