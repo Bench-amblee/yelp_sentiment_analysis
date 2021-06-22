@@ -1,2 +1,8 @@
 # 🗣️ Yelp Sentiment Analysis 📊
-Natural Language Processing Project
+## Natural Language Processing Project
+- For code go to [Notebooks](/notebooks)
+- For raw data and model go to [Data](/data)
+- Full [Rerpot](Report.pdf)
+- Presentation [Slides](Presentation.pdf)
+
+**Problem Statement**
