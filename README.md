@@ -35,3 +35,9 @@ Each review was trimmed down by removing stop words and stemming each word. This
 
 ![Model](/images/model_scores.JPG)
 
+**Results**
+
+Thanks to the stacked model which used features from a Sparse/Dense Matrix Naive Bayes Model and a Gradient Boosted Classifier, the overall accuracy was improved by over 20%
+
+![Results](/images/confusion_matrices.JPG)
+
