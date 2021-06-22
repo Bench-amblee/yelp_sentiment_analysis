@@ -29,5 +29,9 @@ Reviews were sourced from Yelp by using Yelp's Fusion API to get unique URLs for
 
 Each review was trimmed down by removing stop words and stemming each word. This saves memory and computing power and makes the overall model less prone to overfitting.
 
-![NLP](/images/nlp_method.JPG)
+**Modeling**
+
+10 models in total were tested, these are their accuracy and F1 scores:
+
+![Model](/images/model_scores.jpg)
 
