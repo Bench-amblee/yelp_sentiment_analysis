@@ -1,7 +1,7 @@
 # 🗣️ Yelp Sentiment Analysis 📊
 ## Natural Language Processing Project
 
-![graph](/images/polarity_words.jpg)
+![graph](/images/main_graph.jpg)
 - For code go to [Notebooks](/notebooks)
 - For raw data and model go to [Data](/data)
 - Full [Report](Report.pdf)
