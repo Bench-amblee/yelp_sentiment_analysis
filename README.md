@@ -9,7 +9,7 @@
 
 **Problem Statement**
 
-Online reviews are a common way for customers to share their thoughts on a service or product. With so much text-based data, it's impossible for a human to keep up and read through every review. While the common five-star rating system works as a simple solution, there needs to be a
+Online reviews are a common way for customers to share their thoughts on a service or product. With so much text-based data, it's impossible for a human to keep up and read through every review. While the common five-star rating system works as a simple solution, there needs to be a better way 
 
 
 **Context**
