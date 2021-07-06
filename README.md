@@ -9,7 +9,7 @@
 
 **Problem Statement**
 
-Online reviews are a 
+Online reviews are a common
 
 
 **Context**
