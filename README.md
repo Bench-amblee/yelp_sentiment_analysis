@@ -9,7 +9,7 @@
 
 **Problem Statement**
 
-Online reviews are a common way for customers
+Online reviews are a common way for customers to
 
 
 **Context**
