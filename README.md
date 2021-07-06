@@ -9,7 +9,7 @@
 
 **Problem Statement**
 
-Online reviews are a common way for customers to share their thoughts on a service or
+Online reviews are a common way for customers to share their thoughts on a service or product.
 
 
 **Context**
