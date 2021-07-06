@@ -9,7 +9,7 @@
 
 **Problem Statement**
 
-Online reviews are a common way for customers to share their thoughts on a service or product. With so much text-based data, it's
+Online reviews are a common way for customers to share their thoughts on a service or product. With so much text-based data, it's impossible for
 
 
 **Context**
