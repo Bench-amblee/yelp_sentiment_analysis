@@ -9,7 +9,7 @@
 
 **Problem Statement**
 
-Online reviews
+Online reviews are
 
 
 **Context**
